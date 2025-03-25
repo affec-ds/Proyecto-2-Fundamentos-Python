@@ -2,7 +2,7 @@
 
 ### Autor: Affectus Jaureguizar
 ### Fecha original: Mayo, 2024  
-### Revisión para portafolio: 24 de Marzo, 2025/año 
+### Revisión para portafolio: 24 de Marzo, 2025
 
 ---
 
