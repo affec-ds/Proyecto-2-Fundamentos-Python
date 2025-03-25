@@ -4,6 +4,9 @@
 ### Fecha original: Mayo, 2024  
 ### Revisión para portafolio: 24 de Marzo, 2025/año 
 
+---
+
+## 🚀 Descripción del Proyecto
 
 Este proyecto fue realizado como parte del segundo Sprint del **Bootcamp de Ciencia de Datos de TripleTen**. Su objetivo es aplicar los fundamentos de Python a un caso simulado de análisis de datos en una empresa ficticia de comercio electrónico, llamada **Store 1**.
 
